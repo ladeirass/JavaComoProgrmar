@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Adicao",
+            "request": "launch",
+            "mainClass": "codigos.Adicao",
+            "projectName": "Exercico01"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
