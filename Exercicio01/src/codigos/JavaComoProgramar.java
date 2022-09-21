@@ -9,7 +9,7 @@ public class JavaComoProgramar {
 		// ---(\n) Nova linha
 		System.out.println("Bem vindo\nao\nJava\nComo Programar");
 		// ---(\t) Tabulação horizontal
-		System.out.println("Java\tComo\tProgrmar");
+		System.out.println("Java\tComo\tProgramar");
 		System.out.println("Java\rComo\rProgramar");
 		System.out.println("------------------------------");
 
